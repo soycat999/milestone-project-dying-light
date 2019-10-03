@@ -73,3 +73,14 @@ width: 50px;
 }
 
 /*---end of css nav overlay---*/
+
+/*---landing page video---*/
+
+.video-fluid {
+  width: 100%;
+  height: auto;
+}
+
+.introtext {
+  color: orange;
+}

@@ -100,3 +100,21 @@ width: 50px;
 img {
   width: 100%;
 }
+
+/*<!-----section heading for Scavange, survive & skill-up section----->*/
+
+.second-section-heading {
+  text-align: center;
+  color: black;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  background-color: orange;
+}
+
+/*---stylings for cards---*/
+
+.card-title {
+  color: orange;
+  text-align: center;
+}

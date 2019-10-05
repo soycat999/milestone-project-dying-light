@@ -84,3 +84,19 @@ width: 50px;
 .introtext {
   color: orange;
 }
+
+/*---about page--- */
+
+/*---dying light description---*/
+
+.content {
+	color: orange;
+	padding: 25px;
+	background-image:black;
+	text-align: center;
+}
+
+/*---about header img---*/
+img {
+  width: 100%;
+}

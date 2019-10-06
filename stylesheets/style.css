@@ -200,3 +200,31 @@ a {
   border-right: none;
 }
 
+/*---parallax---*/
+
+body, html {
+  height: 100%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url('https://mp1st.com/wp-content/uploads/2019/09/Dying-Light-2-Post-Launch-Support.jpg');
+
+  /* Full height */
+  height: 100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Turn off parallax scrolling for phones. */
+@media only screen and (min-device-width: 300px) {
+  .parallax {
+    background-attachment: scroll;
+    /*background-color: black;*/
+    /*background-image: none;*/
+  }
+}

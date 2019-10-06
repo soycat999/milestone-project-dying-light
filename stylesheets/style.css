@@ -250,3 +250,35 @@ body, html {
   background: #bb0000;
   color: white;
 }
+
+
+/*<!-----subscription----->*/
+
+.sub {
+  text-align: center;
+  color: white;
+  text-transform: capitalize;
+  background: orange;
+  color: black;
+  padding: 10px;
+  display: justify;
+  margin-top: 30px;
+  font: 15px;
+  
+}
+
+/*----subscription format email---*/
+
+.form-group {
+  padding: 20px;
+}
+
+/*---submit button---*/
+.submit-btn {
+  pointer:"cursor";
+}
+
+.container {
+  text-align: center;
+}
+

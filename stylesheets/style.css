@@ -118,3 +118,20 @@ img {
   color: orange;
   text-align: center;
 }
+
+/*---section heading for expansion pack---*/
+
+.heading-expansion-pack {
+  text-align: center;
+  color: black;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  background-color: orange;
+}
+
+/*---expansion pack picture link---*/
+
+.card-expansion-pack {
+  pointer: cursor;
+}

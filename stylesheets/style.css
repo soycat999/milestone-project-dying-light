@@ -168,3 +168,35 @@ img {
   margin-top: 30px;
   font: 15px;
 }
+
+
+/*<!-----buttons for buying the game on different platforms----->*/
+
+a {
+  color: orange;
+}
+
+
+/*---buy now button styling---*/
+
+.btn-group button {
+  background-color: black; 
+  border: 1px solid black;
+  padding: 20px; 
+  float: left; 
+  width: 50%;
+  margin-top: 1px;
+  cursor: pointer;
+}
+
+
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: inline-block;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none;
+}
+

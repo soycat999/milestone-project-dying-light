@@ -300,3 +300,35 @@ body, html {
   text-align: center;
 }
 
+/*---footer styling---*/
+
+.footer-buynow {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: left;
+   padding: 10px
+}
+
+.rating {
+  margin: 40px;
+  margin-bottom: 15px;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.privacy-links {
+  color: orange;
+  text-align: center;
+  margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.textcopyright {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  font-family: 'Roboto', sans-serif;
+}

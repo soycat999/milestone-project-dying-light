@@ -135,3 +135,15 @@ img {
 .card-expansion-pack {
   pointer: cursor;
 }
+
+/*---section heading for gallery---*/
+
+.heading-photo-gallery {
+  text-align: center;
+  color: black;
+  padding: 20px;
+  margin-top:20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  background-color: orange;
+}

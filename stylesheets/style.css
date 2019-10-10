@@ -121,10 +121,14 @@ img {
 .card-title {
   color: orange;
   text-align: center;
+  font-size: 25px;
+
 }
 
 .card-text {
    text-align: center;
+   font-size: 20px;
+
 
 }
 /*---section heading for expansion pack---*/

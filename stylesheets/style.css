@@ -111,11 +111,8 @@ img {
 /*<!-----section heading for Scavange, survive & skill-up section----->*/
 
 .second-section-heading {
-  text-align: center;
   color: black;
-  padding: 20px;
-  margin-bottom: 20px;
-  font-size: 20px;
+  font-size: 45px;
   background-color: orange;
 }
 
@@ -129,11 +126,8 @@ img {
 /*---section heading for expansion pack---*/
 
 .heading-expansion-pack {
-  text-align: center;
-  color: black;
-  padding: 20px;
-  margin-bottom: 20px;
-  font-size: 20px;
+ color: black;
+  font-size: 45px;
   background-color: orange;
 }
 
@@ -146,12 +140,8 @@ img {
 /*---section heading for gallery---*/
 
 .heading-photo-gallery {
-  text-align: center;
   color: black;
-  padding: 20px;
-  margin-top:20px;
-  margin-bottom: 20px;
-  font-size: 20px;
+  font-size: 45px;
   background-color: orange;
 }
 

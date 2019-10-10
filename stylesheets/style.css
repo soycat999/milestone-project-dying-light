@@ -87,8 +87,9 @@ width: 50px;
 }
 
 .title {
-  color: orange;
-  font-size: 30px;
+  color: black;
+  font-size: 45px;
+  background-color: orange;
 }
 
 /*---about page--- */

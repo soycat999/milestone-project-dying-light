@@ -83,6 +83,12 @@ width: 50px;
 
 .introtext {
   color: orange;
+  padding: 20px;
+}
+
+.title {
+  color: orange;
+  font-size: 30px;
 }
 
 /*---about page--- */

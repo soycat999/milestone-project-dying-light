@@ -4,7 +4,7 @@ This project focuses on the website development for the video game called "Dying
 
 ## Demo
 
-A live demo of the website can be found here: https://soycat999.github.io/milestone-project-dying-light/buynow.html
+A live demo of the website can be found here:https://soycat999.github.io/milestone-project-dying-light/
 
 
 ## Project Strategy and Scope

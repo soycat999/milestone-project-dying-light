@@ -81,6 +81,17 @@ width: 50px;
   height: auto;
 }
 
+/*---logo---*/
+
+.logo {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+/*----intro text about game---*/
+
 .introtext {
   color: orange;
   padding: 20px;
@@ -91,6 +102,7 @@ width: 50px;
   font-size: 45px;
   background-color: orange;
 }
+
 
 /*---about page--- */
 

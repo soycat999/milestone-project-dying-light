@@ -20,7 +20,7 @@ A live demo of the website can be found here: https://github.com/soycat999/miles
 | 6      | User would like to subscribe to the latest news and updates about the game. | To include a section in the buy now page that lets them enter their email and "subscribe".  |
 
 ## Project Structure
-### (i)Overview
+### (i) Overview
 - Homepage - The homepage has a short, muted, autoplay video that features the gameplay. Below that, there is a short description of the game. There is also a logo on the top right-hand side of the website and a collapsable navigation bar on the right-hand side of the website. 
 
 - About Game - The about section includes more information about the game. There is a short description about the game, its features and there is also a gallery of images.
@@ -105,9 +105,8 @@ No bugs found.
 
 ### Media 
 
-Homepage video
+Homepage video (Owned by  IGN's channel)
 Source: https://www.youtube.com/watch?v=9IM3YE0BZuo&t=16s
-Owned by  IGN's channel
 
 Homepage logo
 Source: https://dyinglightgame.com/10in12/img/logo_dyinglight.png

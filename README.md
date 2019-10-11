@@ -20,14 +20,14 @@ A live demo of the website can be found here: https://github.com/soycat999/miles
 | 6      | User would like to subscribe to the latest news and updates about the game. | To include a section in the buy now page that lets them enter their email and "subscribe".  |
 
 ## Project Structure
-###(i)Overview
+### (i)Overview
 - Homepage - The homepage has a short, muted, autoplay video that features the gameplay. Below that, there is a short description of the game. There is also a logo on the top right-hand side of the website and a collapsable navigation bar on the right-hand side of the website. 
 
 - About Game - The about section includes more information about the game. There is a short description about the game, its features and there is also a gallery of images.
 
 - Buy Now - The buy now page includes links to the official PC and Console purchase pages. There is also a parallax image in the background and a sticky social media bar on the side of the page. 
 
-###(ii) Wireframes here.
+### (ii) Wireframes here.
 
 View wireframes for both desktop and mobile here: https://docs.google.com/document/d/1EXbarzoNlgPHfAAtar7pMNcObNwsNRzCSKVN2oFSOc8/edit?usp=sharing
 

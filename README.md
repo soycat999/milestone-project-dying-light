@@ -29,7 +29,7 @@ A live demo of the website can be found here: https://github.com/soycat999/miles
 
 ###(ii) Wireframes here.
 
-Save your wireframe in a pdf document. Upload to google drive. Get a shareable link. Put it here.
+View wireframes for both desktop and mobile here: https://docs.google.com/document/d/1EXbarzoNlgPHfAAtar7pMNcObNwsNRzCSKVN2oFSOc8/edit?usp=sharing
 
 ## Project Skeleton
 ### (i) Existing Features
@@ -139,8 +139,9 @@ All rights go to Techland, the game developer and Warner Bros. Interactive Enter
 
 W3Schools:
 
-1. Used an overlay for the navigation bar W3Schools: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_overlay
+1. Used an overlay for the navigation bar from W3Schools: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_overlay
 2. Used a sticky social bar from W3Schools: https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp
+3. Used parallax image from W3Schools: https://www.w3schools.com/howto/howto_css_parallax.asp
 
 Bootstrap features: 
 

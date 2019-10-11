@@ -76,8 +76,7 @@ CSS was used to style the website.
 This site was tested across multiple devices multiple mobile devices 
 (iPhone 4, 5, 7: Chrome and Safari, iPad, Samsung Galaxy) to ensure compatibility and responsiveness.)
 
-- Screenshots of your test: --insert links---
-Website tested on mobile and on laptop mode.
+Website tested on mobile and on laptop mode : https://drive.google.com/drive/folders/1-eJxjByE_b5XR4rv-MGpQLcyzqR0ku33?usp=sharing
 
 (ii) Browser Compatability
 
